@@ -1,0 +1,101 @@
+
+
+.ftw {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.ftw-right {
+  display: block;
+  margin-left: auto;
+}
+
+.ftw-left {
+  display: block;
+  margin-right: auto;
+}
+
+.ftw-lichess {
+  content: url('lichesslogo.png');
+  width: 24px;
+  cursor: pointer;
+}
+.ftw-freecodecamp {
+  content: url('freecodecamp.png');
+  width: 34px;
+  cursor: pointer;
+}
+.ftw-code {
+  content: url('code.png');
+  width: 24px;
+  cursor: pointer;
+}
+.ftw-hamburger {
+  content: url('hamburger-menu-white.png');
+  width: 24px;
+  cursor: pointer;
+}
+.ftw-hamburger-black{
+content: url('hamburger.png');
+width: 24px;
+cursor: pointer;
+}
+.ftw-close {
+  content: url('close-button.png');
+  width: 24px;
+  cursor: pointer;
+}
+.ftw-internet-explorer {
+  content: url('internet-explorer.png');
+  width: 24px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  cursor: pointer;
+}
+.ftw-edge {
+  content: url('edge.jpg');
+  width: 40px;
+}
+.ftw-check-circle-fill {
+  content: url('check-circle-fill.png');
+  width: 24px;
+  transform: translate(4px);
+  cursor: pointer;
+  transition: all 1.7s;
+}
+.ftw-trust-pilot {
+  content: url('trust-pilot.jpg');
+  width: 27px;
+  cursor: pointer;
+}
+.ftw-wp {
+  content: url('wordpress.png');
+  width: 45px;
+  cursor: pointer;
+}
+.ftw-github {
+  content: url('github.jpg');
+  width: 45px;
+  cursor: pointer;
+}
+.ftw-google{
+content: url('google.png');
+width:23px;
+cursor: pointer;
+}
+.ftw-yahoo{
+content: url('yahoo.png');
+width:45px;
+cursor: pointer;
+}
+.ftw-apple{
+content: url('apple.jpg');
+cursor: pointer;
+width:47px;
+}
+.ftw-microsoft{
+content: url('microsoft.png');
+width: 27px;
+cursor: pointer;
+}
